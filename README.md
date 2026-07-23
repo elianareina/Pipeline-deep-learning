@@ -59,3 +59,7 @@ pipeline-deep-learning
 ### Versión de PyTorch utilizada
 
 Se utilizó PyTorch versión 2.11.0+cpu.
+
+### Hiperparámetro learning_rate
+
+El modelo fue entrenado utilizando un learning_rate de 0.001.
