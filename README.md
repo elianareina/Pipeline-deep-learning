@@ -55,3 +55,7 @@ pipeline-deep-learning
 ```
 
 ## Documentación del modelo
+
+### Versión de PyTorch utilizada
+
+Se utilizó PyTorch versión 2.11.0+cpu.
