@@ -66,7 +66,7 @@ El modelo fue entrenado utilizando un learning_rate de 0.001.
 
 ### Interpretación de la curva de pérdida
 
-La curva de pérdida muestra una disminución progresiva durante las épocas de entrenamiento, indicando que el modelo logró aprender los patrones de los datos y mejorar su desempeño.
+La curva de pérdida muestra una disminución progresiva durante las épocas de entrenamiento, indicando que con el modelo se logró aprender los patrones de los datos y mejorar su desempeño.
 
 ## Conclusiones
 
