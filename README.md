@@ -77,8 +77,8 @@ La curva de pérdida muestra una disminución progresiva durante las épocas de 
 
 ## Conclusiones
 
-Se desarrolló un pipeline de Deep Learning utilizando el dataset Iris para realizar una clasificación multiclase.
+## Conclusiones
 
-El modelo permitió clasificar las especies de flores a partir de sus características físicas, aplicando etapas de preparación de datos, división entre entrenamiento y validación, normalización y entrenamiento mediante PyTorch.
+El modelo permitió clasificar las especies de flores del dataset Iris a partir de sus características físicas, aplicando un pipeline de Deep Learning con PyTorch que incluyó preparación de datos, división en conjuntos de entrenamiento y validación, normalización, conversión a tensores y entrenamiento del modelo.
 
-Los resultados obtenidos muestran que el modelo logra identificar patrones entre las variables de entrada y las distintas categorías, demostrando la aplicación de redes neuronales en problemas de clasificación supervisada.
+Durante el entrenamiento se observó una disminución progresiva de la función de pérdida a medida que avanzaron las épocas, lo que indica que la red neuronal logró aprender patrones presentes en los datos y mejorar su capacidad de clasificación.
